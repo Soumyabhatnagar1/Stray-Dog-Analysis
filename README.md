@@ -24,18 +24,17 @@ SQL queries for filtering, grouping, aggregating, and preparing datasets
   2. 📅 Monthly Trends – Shows adoption and vaccination patterns across months.
   3. 🏘️ Location Distribution Map – Highlights where most sightings are reported.
   4. 📈 Interactive Dashboard – Users can filter data by area, category, month, etc.
-  5. 🐕 Category/Breed Distribution – Helps understand which dog types are most commonly reported.
-  6. 🔍 Data Cleaning Pipeline – Handles missing values, duplicates, and inconsistent entries.
-  7. 📊 Comparative Charts – Provides visual clarity through pie charts, bar graphs, line charts, and treemaps.
+  5. 🔍 Data Cleaning Pipeline – Handles missing values, duplicates, and inconsistent entries.
+  6. 📊 Comparative Charts – Provides visual clarity through pie charts, bar graphs, line charts, and treemaps.
 
 ## 📊 Results & Insights
 
-  🔹 High-density zones were identified where stray dog incidents are more frequent, helping target rescue and vaccination efforts.
-  🔹 Vaccination data showed certain months had significantly lower activity, indicating a need for awareness drives.
-  🔹 Adoption trends revealed which periods saw higher adoption rates and which categories of dogs were adopted more often.
-  🔹 Area-based comparison helped prioritize locations requiring immediate attention from welfare teams.
-  🔹 Dashboard visuals made it easier to track year-wise or month-wise progress in both adoption and vaccination operations.
-  🔹 Patterns and anomalies in sightings helped suggest where new shelters or feeding points may be required.
+  1. High-density zones were identified where stray dog incidents are more frequent, helping target rescue and vaccination efforts.
+  2. Vaccination data showed certain months had significantly lower activity, indicating a need for awareness drives.
+  3. Adoption trends revealed which periods saw higher adoption rates and which categories of dogs were adopted more often.
+  4. Area-based comparison helped prioritize locations requiring immediate attention from welfare teams.
+  5. Dashboard visuals made it easier to track year-wise or month-wise progress in both adoption and vaccination operations.
+  6. Patterns and anomalies in sightings helped suggest where new shelters or feeding points may be required.
 
 ## 👤 Author
 
