@@ -1,0 +1,31 @@
+city_id,city_name,state_id
+1,Bareilly,1
+2,Lucknow,1
+3,Kanpur,1
+4,Mumbai,2
+5,Pune,2
+6,Nagpur,2
+7,Central Delhi,3
+8,North Delhi,3
+9,South Delhi,3
+10,Bengaluru,4
+11,Mysuru,4
+12,Mangaluru,4
+13,Chennai,5
+14,Coimbatore,5
+15,Madurai,5
+16,Kolkata,6
+17,Howrah,6
+18,Durgapur,6
+19,Ahmedabad,7
+20,Surat,7
+21,Vadodara,7
+22,Jaipur,8
+23,Jodhpur,8
+24,Udaipur,8
+25,Hyderabad,9
+26,Warangal,9
+27,Nizamabad,9
+28,Amritsar,10
+29,Ludhiana,10
+30,Jalandhar,10
